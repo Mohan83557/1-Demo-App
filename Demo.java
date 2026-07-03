@@ -11,4 +11,6 @@ int j=2;
 	public void m2(){
           //code
      }
+	 int a=10;
+	 int b=20;
 }
