@@ -18,6 +18,12 @@ public class Demo{
 	 int b=20;
 	int c = a+b;
 
+
 	String name = "Mohan";
 	String name2 = "Teja";
+
+	int d = 30;
+	int f = 40;
+	int e = d+f;
+
 }
