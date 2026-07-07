@@ -17,4 +17,8 @@ public class Demo{
 	 int a=10;
 	 int b=20;
 	int c = a+b;
+
+	int d = 30;
+	int f = 40;
+	int e = d+f;
 }
